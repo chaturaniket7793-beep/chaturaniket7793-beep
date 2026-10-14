@@ -31,7 +31,7 @@ I'm an IT infrastructure professional with **10 years of experience** in infrast
 | ☁️ [AWS EC2 Instance Deployment](https://github.com/chaturaniket7793-beep/AWS-EC2-instance) | Hosting an application on AWS EC2 instances |
 | ⚙️ [Ansible Hands-on Project](https://github.com/chaturaniket7793-beep/Ansible-Hands-on-Project) | Configuration management and automation with Ansible playbooks |
 | 🔵🟢 [Kubernetes Blue-Green Deployment](https://github.com/chaturaniket7793-beep/Blue-Green-Deployment-Strategy-k8s) | Blue-green release strategy and traffic switching in Kubernetes |
-| ☸️ [Kubernetes GitOps Platform (2026)](https://github.com/chaturaniket7793-beep/Capstone-k8s-gitops-platform-2026) | Kubernetes platform with GitOps for application deployment |
+| ☸️ [Kubernetes GitOps Platform (2026)](https://github.com/chaturaniket7793-beep/k8s-gitops-platform) | Kubernetes platform with GitOps for application deployment |
 | 🏗️ [Infrastructure as Code CI/CD Pipeline](https://github.com/chaturaniket7793-beep/Capstone-Project-3-Infra-as-code-pipeline-) | AWS ECS deployment with Terraform and GitHub Actions |
 | 🔄 [Jenkins and GitHub Actions CI/CD Pipeline](https://github.com/chaturaniket7793-beep/Ci-Cd-Pipeline-jenkins--Project-2026) | Java application deployment to Amazon ECR with Jenkins and GitHub Actions |
 
