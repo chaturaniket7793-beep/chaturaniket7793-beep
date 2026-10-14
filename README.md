@@ -37,6 +37,13 @@ I'm an IT infrastructure professional with **10 years of experience** in infrast
 | 🏗️ [Infrastructure as Code CI/CD Pipeline](https://github.com/chaturaniket7793-beep/Capstone-Project-3-Infra-as-code-pipeline-) | AWS ECS deployment with Terraform and GitHub Actions |
 | 🔄 [Jenkins and GitHub Actions CI/CD Pipeline](https://github.com/chaturaniket7793-beep/Ci-Cd-Pipeline-jenkins--Project-2026) | Java application deployment to Amazon ECR with Jenkins and GitHub Actions |
 
+## 📂 My Repositories
+
+<!-- REPO-LIST:START -->
+<!-- REPO-LIST:END -->
+
+Browse everything on my [repositories page](https://github.com/chaturaniket7793-beep?tab=repositories).
+
 ## 📚 Current Learning Goals
 
 - AWS cloud infrastructure and security
