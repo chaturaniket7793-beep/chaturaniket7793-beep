@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Animated terminal showing terraform, kubectl and argocd commands">
+<defs><clipPath id="c0"><rect x="40" y="65" width="0" height="22"><animate attributeName="width" values="0;0;291;291;0" keyTimes="0;0.040;0.115;0.96;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c1"><rect x="40" y="89" width="0" height="22"><animate attributeName="width" values="0;0;480;480;0" keyTimes="0;0.145;0.220;0.96;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c2"><rect x="40" y="113" width="0" height="22"><animate attributeName="width" values="0;0;300;300;0" keyTimes="0;0.250;0.325;0.96;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c3"><rect x="40" y="137" width="0" height="22"><animate attributeName="width" values="0;0;291;291;0" keyTimes="0;0.355;0.430;0.96;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c4"><rect x="40" y="161" width="0" height="22"><animate attributeName="width" values="0;0;291;291;0" keyTimes="0;0.460;0.535;0.96;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c5"><rect x="40" y="185" width="0" height="22"><animate attributeName="width" values="0;0;291;291;0" keyTimes="0;0.565;0.640;0.96;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c6"><rect x="40" y="209" width="0" height="22"><animate attributeName="width" values="0;0;309;309;0" keyTimes="0;0.670;0.745;0.96;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c7"><rect x="40" y="233" width="0" height="22"><animate attributeName="width" values="0;0;174;174;0" keyTimes="0;0.775;0.850;0.96;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<rect x="10" y="10" width="980" height="280" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M10 22a12 12 0 0 1 12-12h956a12 12 0 0 1 12 12v22H10z" fill="#161b22"/>
+<circle cx="34" cy="28" r="6" fill="#ff5f56"/><circle cx="56" cy="28" r="6" fill="#ffbd2e"/><circle cx="78" cy="28" r="6" fill="#27c93f"/>
+<text x="500" y="33" text-anchor="middle" fill="#8b949e" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13">aniket@devops: ~/platform</text>
+<text x="40" y="82" fill="#e6edf3" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve" clip-path="url(#c0)">$ terraform apply -auto-approve</text>
+<text x="40" y="106" fill="#7ee787" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve" clip-path="url(#c1)">Apply complete! AWS EKS cluster and VPC provisioned.</text>
+<text x="40" y="130" fill="#e6edf3" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve" clip-path="url(#c2)">$ kubectl get pods -n production</text>
+<text x="40" y="154" fill="#7ee787" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve" clip-path="url(#c3)">product-service   1/1   Running</text>
+<text x="40" y="178" fill="#7ee787" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve" clip-path="url(#c4)">cart-service      1/1   Running</text>
+<text x="40" y="202" fill="#7ee787" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve" clip-path="url(#c5)">order-service     1/1   Running</text>
+<text x="40" y="226" fill="#e6edf3" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve" clip-path="url(#c6)">$ argocd app sync gitops-platform</text>
+<text x="40" y="250" fill="#7ee787" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve" clip-path="url(#c7)">Synced  |  Healthy</text>
+
+<rect x="40" y="257" width="9" height="18" fill="#58a6ff"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>

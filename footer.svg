@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="110" viewBox="0 0 1000 110" role="img" aria-label="Animated wave footer">
+<defs><linearGradient id="w" x1="0" x2="1"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#7ee787"/></linearGradient></defs>
+<g fill="url(#w)">
+<path opacity="0.25" d="M0 50 Q125 10 250 50 T500 50 T750 50 T1000 50 T1250 50 T1500 50 V110 H0z"><animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="9s" repeatCount="indefinite"/></path>
+<path opacity="0.45" d="M0 65 Q125 30 250 65 T500 65 T750 65 T1000 65 T1250 65 T1500 65 V110 H0z"><animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="7s" repeatCount="indefinite"/></path>
+<path opacity="0.8" d="M0 80 Q125 55 250 80 T500 80 T750 80 T1000 80 T1250 80 T1500 80 V110 H0z"><animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="5s" repeatCount="indefinite"/></path>
+</g></svg>

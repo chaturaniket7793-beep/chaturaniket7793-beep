@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Animated CI/CD pipeline">
+<style>
+.n rect{fill:#161b22;stroke:#30363d;stroke-width:1.5;animation:glow 10s infinite;animation-delay:inherit}
+.n{animation:none}
+.t1{font:700 16px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#e6edf3}
+.t2{font:400 12px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#8b949e}
+.n:nth-of-type(1) rect{animation-delay:0s}.n:nth-of-type(2) rect{animation-delay:2s}.n:nth-of-type(3) rect{animation-delay:4s}.n:nth-of-type(4) rect{animation-delay:6s}.n:nth-of-type(5) rect{animation-delay:8s}
+@keyframes glow{0%,18%{stroke:#58a6ff;fill:#12263d}22%,100%{stroke:#30363d;fill:#161b22}}
+</style>
+<text x="500" y="32" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8b949e" letter-spacing="2">MY CI/CD FLOW</text>
+<line x1="190" y1="100" x2="220" y2="100" stroke="#30363d" stroke-width="2" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="1s" repeatCount="indefinite"/></line>
+<line x1="380" y1="100" x2="410" y2="100" stroke="#30363d" stroke-width="2" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="1s" repeatCount="indefinite"/></line>
+<line x1="570" y1="100" x2="600" y2="100" stroke="#30363d" stroke-width="2" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="1s" repeatCount="indefinite"/></line>
+<line x1="760" y1="100" x2="790" y2="100" stroke="#30363d" stroke-width="2" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" from="12" to="0" dur="1s" repeatCount="indefinite"/></line>
+
+<g class="n" style="animation-delay:0s"><rect x="30" y="60" width="160" height="80" rx="12"/>
+<text x="110" y="94" text-anchor="middle" class="t1">Code</text><text x="110" y="118" text-anchor="middle" class="t2">Git / GitHub</text></g>
+<g class="n" style="animation-delay:2s"><rect x="220" y="60" width="160" height="80" rx="12"/>
+<text x="300" y="94" text-anchor="middle" class="t1">Build</text><text x="300" y="118" text-anchor="middle" class="t2">Jenkins / Actions</text></g>
+<g class="n" style="animation-delay:4s"><rect x="410" y="60" width="160" height="80" rx="12"/>
+<text x="490" y="94" text-anchor="middle" class="t1">Containerize</text><text x="490" y="118" text-anchor="middle" class="t2">Docker / ECR</text></g>
+<g class="n" style="animation-delay:6s"><rect x="600" y="60" width="160" height="80" rx="12"/>
+<text x="680" y="94" text-anchor="middle" class="t1">Provision</text><text x="680" y="118" text-anchor="middle" class="t2">Terraform / Ansible</text></g>
+<g class="n" style="animation-delay:8s"><rect x="790" y="60" width="160" height="80" rx="12"/>
+<text x="870" y="94" text-anchor="middle" class="t1">Deploy</text><text x="870" y="118" text-anchor="middle" class="t2">EKS / ECS + Argo CD</text></g>
+
+<circle r="7" fill="#7ee787"><animateMotion dur="10s" repeatCount="indefinite" path="M110 100 L870 100" keyPoints="0;1" keyTimes="0;1" calcMode="linear"/></circle>
+<circle r="14" fill="#7ee787" opacity="0.25"><animateMotion dur="10s" repeatCount="indefinite" path="M110 100 L870 100" keyPoints="0;1" keyTimes="0;1" calcMode="linear"/></circle>
+</svg>
