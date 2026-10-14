@@ -51,13 +51,14 @@ Browse everything on my [repositories page](https://github.com/chaturaniket7793-
 - Artificial Intelligence and machine learning fundamentals
 - Running AI workloads on Kubernetes and cloud infrastructure
 ## 🤝 Connect With Me
-## 🤝 Connect With Me
 
 - 📧 Email: [chaturaniket7793@gmail.com](mailto:chaturaniket7793@gmail.com)
 - 📞 Phone: +91 93265 97923
 - 💻 GitHub: [@chaturaniket7793-beep](https://github.com/chaturaniket7793-beep)
 - 💼 LinkedIn: [Aniket Chatur](https://www.linkedin.com/in/aniket-chatur-a57966268/)
-- 📄 Resume: [Download my resume (PDF)](https://github.com/chaturaniket7793-beep/chaturaniket7793-beep/raw/main/Aniket_Chatur_DevOps_Resume%20%281%29.pdf)
+- 📄 Resume: [Download my resume (PDF)](https://github.com/chaturaniket7793-beep/chaturaniket7793-beep/raw/refs/heads/main/Aniket_Chatur_DevOps%202026.pdf)
+
+⭐ Thanks for visiting my profile!
 ⭐ Thanks for visiting my profile!
 
 <img src="footer.svg" alt="" width="100%" />
