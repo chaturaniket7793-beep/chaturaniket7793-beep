@@ -15,13 +15,11 @@ I'm an IT infrastructure professional with **10 years of experience** in infrast
 </div>
 
 ## 🛠️ Languages and Tools
-
 <div align="center">
   <img src="skills.svg" alt="AWS, Azure, Docker, Kubernetes, Terraform, Ansible, Helm, Argo CD, Jenkins, GitHub Actions, Prometheus, Grafana, Linux, Bash, Git" width="100%" />
 </div>
 
 ## 🔄 How I Ship
-
 <div align="center">
   <img src="pipeline.svg" alt="CI/CD flow: Code, Build, Containerize, Provision, Deploy" width="100%" />
 </div>
@@ -44,15 +42,14 @@ I'm an IT infrastructure professional with **10 years of experience** in infrast
 
 Browse everything on my [repositories page](https://github.com/chaturaniket7793-beep?tab=repositories).
 
-## 📚 Current Learning Goals
+## 📚 Learning Goals
+**Hands-on so far:** AWS, Kubernetes, Terraform, Ansible, Helm, Argo CD, Jenkins, GitHub Actions, Prometheus and Grafana.
+**Next:** building on this foundation to work on AI infrastructure.
 
-- AWS cloud infrastructure and security
-- Kubernetes administration and troubleshooting
-- Terraform modules and remote state
-- Ansible playbooks and configuration management
-- CI/CD pipelines and GitOps
-- Prometheus and Grafana observability
-
+- Python for automation and tooling
+- MLOps: pipelines, model deployment and monitoring
+- Artificial Intelligence and machine learning fundamentals
+- Running AI workloads on Kubernetes and cloud infrastructure
 ## 🤝 Connect With Me
 ## 🤝 Connect With Me
 
