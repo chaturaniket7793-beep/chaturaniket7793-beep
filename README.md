@@ -29,21 +29,37 @@ I'm an IT infrastructure professional with **10 years of experience** in infrast
 
 ### 🚀 Featured Projects
 
-- **[Terraform AWS Infrastructure](https://github.com/chaturaniket7793-beep/terraform-assignment-tutorials-1-8)**  
-  AWS infrastructure automation, Terraform modules, variables, outputs, and remote state.
+## 🚀 Featured DevOps Projects
 
-- **[Kubernetes Blue-Green Deployment](https://github.com/chaturaniket7793-beep/Blue-Green-Deployment-Strategy-k8s)**  
-  Hands-on Kubernetes deployment strategy for application releases.
+### ☁️ 1. AWS EC2 Instance Deployment
+Hosting an application on AWS EC2 instances and practicing cloud infrastructure deployment.
 
-- **[Helm Deployment Demo](https://github.com/chaturaniket7793-beep/web-service---Helm-Demo-)**  
-  Deploying and managing Kubernetes applications using Helm charts.
+🔗 [View Repository](https://github.com/chaturaniket7793-beep/AWS-EC2-instance)
 
-- **[Ansible Hands-on Project](https://github.com/chaturaniket7793-beep/Ansible-Hands-on-Project)**  
-  Configuration management and infrastructure automation with Ansible.
+### ⚙️ 2. Ansible Hands-on Project
+Practicing configuration management and infrastructure automation using Ansible playbooks.
 
-- **[Capstone Project 2](https://github.com/chaturaniket7793-beep/Capstone-Project--2)**  
-  Containerization and deployment practice using Docker and cloud infrastructure.
+🔗 [View Repository](https://github.com/chaturaniket7793-beep/Ansible-Hands-on-Project)
 
+### 🔵🟢 3. Kubernetes Blue-Green Deployment
+Implementing blue-green deployment strategies in Kubernetes to practice safer application releases and traffic switching.
+
+🔗 [View Repository](https://github.com/chaturaniket7793-beep/Blue-Green-Deployment-Strategy-k8s)
+
+### ☸️ 4. Kubernetes GitOps Platform — 2026
+Building a Kubernetes-based platform with GitOps practices for application deployment and management.
+
+🔗 [View Repository](https://github.com/chaturaniket7793-beep/Capstone-k8s-gitops-platform-2026)
+
+### 🏗️ 5. Infrastructure as Code CI/CD Pipeline
+Automating AWS ECS deployment using Terraform, GitHub Actions, and infrastructure-as-code practices.
+
+🔗 [View Repository](https://github.com/chaturaniket7793-beep/Capstone-Project-3-Infra-as-code-pipeline-)
+
+### 🔄 6. Jenkins and GitHub Actions CI/CD Pipeline
+Practicing Java application deployment to Amazon ECR using Jenkins, GitHub Actions, and AWS services.
+
+🔗 [View Repository](https://github.com/chaturaniket7793-beep/Ci-Cd-Pipeline-jenkins--Project-2026)
 ### 📚 Current Learning Goals
 
 - AWS cloud infrastructure and security
@@ -55,9 +71,14 @@ I'm an IT infrastructure professional with **10 years of experience** in infrast
 
 ### 🤝 Connect With Me
 
-- GitHub: [@chaturaniket7793-beep](https://github.com/chaturaniket7793-beep)
-- LinkedIn: [Add your LinkedIn profile URL here](https://www.linkedin.com/)
+### 🤝 Connect With Me
 
+- 💻 GitHub: [@chaturaniket7793-beep](https://github.com/chaturaniket7793-beep)
+- 💼 LinkedIn: [Aniket Chatur](https://www.linkedin.com/in/aniket-chatur-a57966268/)
+
+---
+
+⭐ Thanks for visiting my profile!
 ---
 
 ⭐ Thanks for visiting my profile! I'm continuously learning and building hands-on DevOps projects.
