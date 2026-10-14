@@ -23,7 +23,7 @@ I'm an IT infrastructure professional with **10 years of experience** in infrast
 
 **Monitoring:** Prometheus, Grafana
 
-**Operating Systems and Scripting:** Linux, Bash, Python, PowerShell
+**Operating Systems and Scripting:** Linux, Bash 
 
 **Version Control:** Git, GitHub
 
