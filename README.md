@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Aniket Chatur - DevOps Engineer" width="100%" />
+  <img src="header.svg" alt="Aniket Chatur - DevOps Engineer" width="100%" />
 </div>
 
 ## Hi 👋, I'm Aniket Chatur
@@ -13,13 +13,13 @@ I'm an IT infrastructure professional with **10 years of experience** in infrast
 - 📍 India
 
 <div align="center">
-  <img src="assets/terminal.svg" alt="Terminal: terraform apply, kubectl get pods, argocd app sync" width="100%" />
+  <img src="terminal.svg" alt="Terminal: terraform apply, kubectl get pods, argocd app sync" width="100%" />
 </div>
 
 ## 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="assets/skills.svg" alt="AWS, Azure, Docker, Kubernetes, Terraform, Ansible, Helm, Argo CD, Jenkins, GitHub Actions, Prometheus, Grafana, Linux, Bash, Git" width="100%" />
+  <img src="skills.svg" alt="AWS, Azure, Docker, Kubernetes, Terraform, Ansible, Helm, Argo CD, Jenkins, GitHub Actions, Prometheus, Grafana, Linux, Bash, Git" width="100%" />
 </div>
 
 | Area | Tools |
@@ -35,7 +35,7 @@ I'm an IT infrastructure professional with **10 years of experience** in infrast
 ## 🔄 How I Ship
 
 <div align="center">
-  <img src="assets/pipeline.svg" alt="CI/CD flow: Code, Build, Containerize, Provision, Deploy" width="100%" />
+  <img src="pipeline.svg" alt="CI/CD flow: Code, Build, Containerize, Provision, Deploy" width="100%" />
 </div>
 
 ## 🚀 Featured DevOps Projects
@@ -65,4 +65,4 @@ I'm an IT infrastructure professional with **10 years of experience** in infrast
 
 ⭐ Thanks for visiting my profile! I'm continuously learning and building hands-on DevOps projects.
 
-<img src="assets/footer.svg" alt="" width="100%" />
+<img src="footer.svg" alt="" width="100%" />
