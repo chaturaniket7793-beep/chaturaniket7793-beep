@@ -7,8 +7,6 @@
 I'm an IT infrastructure professional with **10 years of experience** in infrastructure support, system administration, troubleshooting and operations, now focusing on DevOps, cloud engineering, automation and platform reliability.
 
 - 🔭 Building hands-on DevOps and cloud infrastructure projects
-- 🌱 Learning Kubernetes, AWS, Terraform, Ansible, Helm and GitOps
-- ☁️ Exploring AWS infrastructure, Infrastructure as Code and CI/CD automation
 - 🚀 Practicing production-style deployments, monitoring and reliability engineering
 - 📍 India
 
@@ -21,16 +19,6 @@ I'm an IT infrastructure professional with **10 years of experience** in infrast
 <div align="center">
   <img src="skills.svg" alt="AWS, Azure, Docker, Kubernetes, Terraform, Ansible, Helm, Argo CD, Jenkins, GitHub Actions, Prometheus, Grafana, Linux, Bash, Git" width="100%" />
 </div>
-
-| Area | Tools |
-| --- | --- |
-| **Cloud** | AWS, Azure |
-| **Containers and Orchestration** | Docker, Kubernetes |
-| **Infrastructure as Code** | Terraform, Ansible |
-| **CI/CD and GitOps** | Jenkins, GitHub Actions, Helm, Argo CD |
-| **Monitoring** | Prometheus, Grafana |
-| **Operating Systems and Scripting** | Linux, Bash |
-| **Version Control** | Git, GitHub |
 
 ## 🔄 How I Ship
 
@@ -63,6 +51,6 @@ I'm an IT infrastructure professional with **10 years of experience** in infrast
 - 💻 GitHub: [@chaturaniket7793-beep](https://github.com/chaturaniket7793-beep)
 - 💼 LinkedIn: [Aniket Chatur](https://www.linkedin.com/in/aniket-chatur-a57966268/)
 
-⭐ Thanks for visiting my profile! I'm continuously learning and building hands-on DevOps projects.
+⭐ Thanks for visiting my profile!
 
 <img src="footer.svg" alt="" width="100%" />
