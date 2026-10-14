@@ -8,7 +8,7 @@ I'm an IT infrastructure professional with **10 years of experience** in infrast
 
 - 🔭 Building hands-on DevOps and cloud infrastructure projects
 - 🚀 Practicing production-style deployments, monitoring and reliability engineering
-- 📍 India
+- 📍 Navi Mumbai ,India
 
 <div align="center">
   <img src="terminal.svg" alt="Terminal: terraform apply, kubectl get pods, argocd app sync" width="100%" />
@@ -54,10 +54,13 @@ Browse everything on my [repositories page](https://github.com/chaturaniket7793-
 - Prometheus and Grafana observability
 
 ## 🤝 Connect With Me
+## 🤝 Connect With Me
 
+- 📧 Email: [chaturaniket7793@gmail.com](mailto:chaturaniket7793@gmail.com)
+- 📞 Phone: +91 93265 97923
 - 💻 GitHub: [@chaturaniket7793-beep](https://github.com/chaturaniket7793-beep)
 - 💼 LinkedIn: [Aniket Chatur](https://www.linkedin.com/in/aniket-chatur-a57966268/)
-
+- 📄 Resume: [Download my resume (PDF)](Aniket_Chatur_DevOps_Resume.pdf)
 ⭐ Thanks for visiting my profile!
 
 <img src="footer.svg" alt="" width="100%" />
